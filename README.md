@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yellyhaze
 - 👀 I’m interested in Programming and Web Development. 
-- 🌱 I’m a 3rd year college student taking a bachelor's degree in Information Technology.
+- 🌱 I’m a 4th year college student taking a bachelor's degree in Information Technology.
 - 📫 How to reach me? You can reach me through my email besa.johncarlo.a.1394@gmail.com
 
 <!---
